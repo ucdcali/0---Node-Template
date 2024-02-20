@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "type": "module",
   "scripts": {
     "fresh": "npm i express mongoose ejs dotenv",
     "start": "nodemon app.js"
